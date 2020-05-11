@@ -20,15 +20,15 @@ This program does have user input capabilities, however they have not been compl
 ## Sub Strings
 ### Information
 ### Project Status
-At this time, the project is __Not *finished*__.
+At this time, the project is __NOT *finished*__.
 ### Instructions
 ## Stock Picker
 ### Information
 ### Project Status
-At this time, the project is __Not *finished*__.
+At this time, the project is __NOT *finished*__.
 ### Instructions
 ## Bubble Sort
 ### Information
 ### Project Status
-At this time, the project is __Not *finished*__.
+At this time, the project is __NOT *finished*__.
 ### Instructions
