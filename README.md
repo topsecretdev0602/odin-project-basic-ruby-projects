@@ -1,5 +1,21 @@
 # Basic Ruby Projects from The Odin Project
 # Table of Contents
+* [Caeser Cipher](https://github.com/fussykyloren/odin-project-basic-ruby-projects#table-of-contents)
+  * [Information]()
+  * [Project Status]()
+  * [Instructions]()
+* [Sub Strings]()
+  * [Information]()
+  * [Project Status]()
+  * [Instructions]()
+* [Stock Picker]()
+  * [Information]()
+  * [Project Status]()
+  * [Instructions]()
+* [Bubble Sort]()
+  * [Information]()
+  * [Project Status]()
+  * [Instructions]()
 ## Caeser Cipher
 ### Information
 The caeser cipher is long used cipher in cryptography, traced by to Julius Caeser and his personal correspondance (hence the name). According to [Wikipedia](https://en.wikipedia.org/wiki/Caesar_cipher):
