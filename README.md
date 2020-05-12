@@ -21,7 +21,7 @@
 The caeser cipher is long used cipher in cryptography, traced by to Julius Caeser and his personal correspondance (hence the name). According to [Wikipedia](https://en.wikipedia.org/wiki/Caesar_cipher):
 > In cryptography, a Caesar cipher, also known as Caesar’s cipher, the shift cipher, Caesar’s code or Caesar shift, is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. For example, with a left shift of 3, D would be replaced by A, E would become B, and so on.
 
-In this project, the caeser cipher is implemented using Ruby. This project is part of The Odin Project Javascript curriculum. The project information can be found [here](https://www.theodinproject.com/courses/ruby-programming/lessons/caesar-cipher).
+In this project, the caeser cipher is implemented using Ruby. This project is part of The Odin Project's Ruby Programming curriculum. The project information can be found [here](https://www.theodinproject.com/courses/ruby-programming/lessons/caesar-cipher).
 ### Project Status
 At this time, the project is __*finished*__.
 ### Instructions
@@ -29,16 +29,25 @@ To use this program, Ruby will need to be installed. This program is build on Ru
 ```
 ruby -v
 ```
-If you have a compatible version, this program can be run using this command:
+If you have a compatible version, this program can be run using this command in the directory the file is saved:
 ```
 ruby caeser-cipher.rb
 ```
 This program does have user input capabilities, however they have not been completely tested.
 ## Sub Strings
 ### Information
+This function takes a word/phrase and a dictionary of words (as an array) as inputs to the functions. The function then returns a hash with each word found from the dictionary found in the word/phrase and the number of occurences. This project is implemented using Ruby as part of The Odin Project's Ruby Programming curriculum. The project information can be found [here](https://www.theodinproject.com/courses/ruby-programming/lessons/sub-strings).
 ### Project Status
-At this time, the project is __NOT *finished*__.
+At this time, the project is __*finished*__.
 ### Instructions
+To use this program, Ruby will need to be installed. This program is build on Ruby v2.6.5p114. To check your current version:
+```
+ruby -v
+```
+If you have a compatible version, this program can be run using this command in the directory the file is saved:
+```
+ruby sub-string.rb
+```
 ## Stock Picker
 ### Information
 ### Project Status
