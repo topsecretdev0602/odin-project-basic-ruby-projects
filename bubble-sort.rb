@@ -25,4 +25,4 @@ def bubble_sort(arr)
 end
 
 bubble_sort([4,3,78,2,0,2])
-bubble_sort([5,3,7,5,89,90,2])
+# bubble_sort([5,3,7,5,89,90,2])
