@@ -8,17 +8,14 @@ def bubble_sort(arr)
         p arr
     else
         iter = arr.length - 2
-
         for i in 0..iter do
             swapped = false
-
             for j in 0..iter do
                 if arr[j] > arr[j+1]
                     swap!(arr, j, (j+1))
                     swapped = true
                 end
             end
-
             if(!swapped)
                 break
             end
