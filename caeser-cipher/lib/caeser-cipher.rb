@@ -22,15 +22,7 @@ def caeser_cipher(string, key)
             caeser_return_string += char
         end
     end
-    puts caeser_return_string
+    caeser_return_string
 end
 
 caeser_cipher("What a string!", 5) #should return "Bmfy f xywnsl!"
-
-=begin print "What string would you like to encode?"
-string_to_encode = gets.chomp
-
-print "How many places should the string be shifted?"
-shift_key = gets.chomp.to_i
-
-caeser_cipher(string_to_encode, shift_key) =end
